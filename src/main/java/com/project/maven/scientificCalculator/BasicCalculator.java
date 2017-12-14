@@ -62,7 +62,7 @@ public class BasicCalculator implements BasicInterface{
 	 * @return result of the division
 	 */
 	public double div(double firstNo, double secondNo) {
-		if (secondNo == 0) {
+		if (secondNo == 0.0) {
 			System.out.println("Division with zero?");
 			return -0.123456789;
 		 } else{

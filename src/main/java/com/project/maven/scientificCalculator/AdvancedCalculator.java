@@ -42,7 +42,7 @@ public class AdvancedCalculator implements AdvancedInterface {
 	 * @return result of calculation
 	 */
 	public double sinh(double firstNo) {
-		return (Math.sinh( firstNo));
+		return (Math.sinh(firstNo));
 	}
 	
 /**
@@ -53,8 +53,17 @@ public class AdvancedCalculator implements AdvancedInterface {
  * @return result of calculation
  */
 	public double log(double firstNo) {
-		return (Math.log(firstNo));
-	}
+		
+		double result = 0.0;
+		
+		if (firstNo == 0.0) {
+			System.out.println("Tried entering zero?");
+			return -0.123456789;
+		 } else{
+			 result = (Math.log(firstNo));
+			 return result;
+		 }
+	 }
 	
 	/**
 	 * Here square Root is handled.
