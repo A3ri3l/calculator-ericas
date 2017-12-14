@@ -1,0 +1,31 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame,739,0,0,0,119,0,4,0,4,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},24,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,Main,8,0,0,0,3,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},24,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,BasicCalculator,0,30,0,2,0,9,0,6,0,5
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},24,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},24,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},12,0,0,0,3,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,AdvancedCalculator,5,31,1,1,2,10,1,7,0,7
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},9,0,0,0,3,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},23,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},15,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},23,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},24,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},27,0,0,0,4,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},23,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},23,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new Runnable() {...},16,0,0,0,7,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},28,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},28,0,0,0,5,0,2,0,2,0
+calculator-ericas,com.project.maven.scientificCalculator,MainFrame.new ActionListener() {...},146,0,8,0,19,0,6,0,2,0

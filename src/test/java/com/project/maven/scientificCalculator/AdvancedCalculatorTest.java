@@ -185,15 +185,6 @@ public class AdvancedCalculatorTest {
 	}
 	}
 	
-	@Test
-	public void testLogZero() {
-			
-			firstNo = 0.0;
-			result = Math.log(firstNo);
-			
-			LOG.info("Testing log zero with value: " +firstNo +" result: " +result);
-			assertEquals (ac.log(firstNo), result, 0.1); 
-	}
 	
 	/**
 	 * Here I handle test for the square root method.

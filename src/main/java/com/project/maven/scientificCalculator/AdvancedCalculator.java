@@ -51,6 +51,7 @@ public class AdvancedCalculator implements AdvancedInterface {
  * @param firstNo is a double
  * @param log is a double
  * @return result of calculation
+ * Zero is taken out of the project due to impossible math...
  */
 	public double log(double firstNo) {
 		
@@ -62,7 +63,7 @@ public class AdvancedCalculator implements AdvancedInterface {
 		 } else{
 			 result = (Math.log(firstNo));
 			 return result;
-		 }
+		}
 	 }
 	
 	/**

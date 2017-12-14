@@ -20,7 +20,7 @@ public class BasicCalculatorTest {
 	private static final Logger LOG = Logger.getLogger(Main.class.getName());
 	Random random = new Random();
 	DecimalFormat df = new DecimalFormat(); //Niklas tippsade om den här men fattar inte varför jag behöver den.
-	BasicCalculator bc = new BasicCalculator();//INOM parantesen kan jag skriva ett konstant värde, alltså double nr 1. skulle det vara ok med Rafael?
+	BasicCalculator bc = new BasicCalculator();
 	
 	double firstNo = 0.0;//Niclas har inne i testet varje gång för att vara säker på nollställning
 	double secondNo = 0.0;
@@ -34,7 +34,6 @@ public class BasicCalculatorTest {
 	@Test
 	public void testAddPositive() {
 		
-		double randomValue = 0.0;
 		for (int i = 0; i < 50; i++) {
 			
 			firstNo = Double.valueOf(df.format(random.nextDouble()*100));
@@ -52,7 +51,6 @@ public class BasicCalculatorTest {
 		double secondNo = 0.0;
 		double result = 0.0;
 		
-		double randomValue = 0.0;
 		for (int i = 0; i < 50; i++) {
 			firstNo = Double.valueOf(df.format(-random.nextDouble()*100));
 			secondNo = Double.valueOf(df.format(-random.nextDouble()*100));
@@ -107,7 +105,6 @@ public class BasicCalculatorTest {
 		double secondNo = 0.0;
 		double result = 0.0;
 		
-		double randomValue = 0.0;
 		for (int i = 0; i < 50; i++) {
 			
 			firstNo = Double.valueOf(df.format(random.nextDouble()*100));
@@ -125,7 +122,6 @@ public class BasicCalculatorTest {
 		double secondNo = 0.0;
 		double result = 0.0;
 		
-		double randomValue = 0.0;
 		for (int i = 0; i < 50; i++) {
 			firstNo = Double.valueOf(df.format(-random.nextDouble()*100));
 			secondNo = Double.valueOf(df.format(-random.nextDouble()*100));
@@ -179,7 +175,6 @@ public class BasicCalculatorTest {
 		double secondNo = 0.0;
 		double result = 0.0;
 		
-		double randomValue = 0.0;
 		for (int i = 0; i < 50; i++) {
 			
 			firstNo = Double.valueOf(df.format(random.nextDouble()*100));
@@ -197,7 +192,6 @@ public class BasicCalculatorTest {
 		double secondNo = 0.0;
 		double result = 0.0;
 		
-		double randomValue = 0.0;
 		for (int i = 0; i < 50; i++) {
 			firstNo = Double.valueOf(df.format(-random.nextDouble()*100));
 			secondNo = Double.valueOf(df.format(-random.nextDouble()*100));
@@ -251,7 +245,6 @@ public class BasicCalculatorTest {
 		double firstNo = 0.0;
 		double secondNo = 0.0;
 		double result = 0.0;
-		double randomValue = 0.0;
 		
 		for (int i = 0; i < 50; i++) {
 			
@@ -270,7 +263,6 @@ public class BasicCalculatorTest {
 		double secondNo = 0.0;
 		double result = 0.0;
 		
-		double randomValue = 0.0;
 		for (int i = 0; i < 50; i++) {
 			firstNo = Double.valueOf(df.format(-random.nextDouble()*100));
 			secondNo = Double.valueOf(df.format(-random.nextDouble()*100));

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="29" passed="29">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="382" started-at="2017-12-14T14:40:18Z" finished-at="2017-12-14T14:40:19Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="382" started-at="2017-12-14T14:40:18Z" finished-at="2017-12-14T14:40:19Z">
+      <class name="com.project.maven.scientificCalculator.AdvancedCalculatorTest">
+        <test-method status="PASS" signature="testPlusMinusZero()[pri:0, instance:testPlusMinusZero(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testPlusMinusZero" duration-ms="8" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlusMinusZero -->
+        <test-method status="PASS" signature="testSinHPositive()[pri:0, instance:testSinHPositive(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSinHPositive" duration-ms="30" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSinHPositive -->
+        <test-method status="PASS" signature="testSquareRootZero()[pri:0, instance:testSquareRootZero(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSquareRootZero" duration-ms="1" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquareRootZero -->
+        <test-method status="PASS" signature="testSquareRootPositive()[pri:0, instance:testSquareRootPositive(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSquareRootPositive" duration-ms="16" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquareRootPositive -->
+        <test-method status="PASS" signature="testSquareRootNegative()[pri:0, instance:testSquareRootNegative(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSquareRootNegative" duration-ms="14" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquareRootNegative -->
+        <test-method status="PASS" signature="testPiPositive()[pri:0, instance:testPiPositive(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testPiPositive" duration-ms="11" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPiPositive -->
+        <test-method status="PASS" signature="testPiNegative()[pri:0, instance:testPiNegative(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testPiNegative" duration-ms="18" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPiNegative -->
+        <test-method status="PASS" signature="testPlusMinusNegative()[pri:0, instance:testPlusMinusNegative(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testPlusMinusNegative" duration-ms="9" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlusMinusNegative -->
+        <test-method status="PASS" signature="testSinPositive()[pri:0, instance:testSinPositive(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSinPositive" duration-ms="15" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSinPositive -->
+        <test-method status="PASS" signature="testSinNegative()[pri:0, instance:testSinNegative(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSinNegative" duration-ms="16" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSinNegative -->
+        <test-method status="PASS" signature="testSinhNegative()[pri:0, instance:testSinhNegative(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSinhNegative" duration-ms="6" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSinhNegative -->
+        <test-method status="PASS" signature="testPlusMinusositive()[pri:0, instance:testPlusMinusositive(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testPlusMinusositive" duration-ms="5" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlusMinusositive -->
+        <test-method status="PASS" signature="testPiZero()[pri:0, instance:testPiZero(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testPiZero" duration-ms="0" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPiZero -->
+        <test-method status="PASS" signature="testSinhZero()[pri:0, instance:testSinhZero(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSinhZero" duration-ms="0" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSinhZero -->
+        <test-method status="PASS" signature="testSinZero()[pri:0, instance:testSinZero(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testSinZero" duration-ms="0" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSinZero -->
+        <test-method status="PASS" signature="testLogPositive()[pri:0, instance:testLogPositive(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testLogPositive" duration-ms="10" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogPositive -->
+        <test-method status="PASS" signature="testLogNegative()[pri:0, instance:testLogNegative(com.project.maven.scientificCalculator.AdvancedCalculatorTest)]" name="testLogNegative" duration-ms="4" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogNegative -->
+      </class> <!-- com.project.maven.scientificCalculator.AdvancedCalculatorTest -->
+      <class name="com.project.maven.scientificCalculator.BasicCalculatorTest">
+        <test-method status="PASS" signature="testMulPositive()[pri:0, instance:testMulPositive(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testMulPositive" duration-ms="8" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMulPositive -->
+        <test-method status="PASS" signature="testAddZero()[pri:0, instance:testAddZero(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testAddZero" duration-ms="8" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddZero -->
+        <test-method status="PASS" signature="testMulNegative()[pri:0, instance:testMulNegative(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testMulNegative" duration-ms="7" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMulNegative -->
+        <test-method status="PASS" signature="testDivPositive()[pri:0, instance:testDivPositive(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testDivPositive" duration-ms="6" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivPositive -->
+        <test-method status="PASS" signature="testDivNegative()[pri:0, instance:testDivNegative(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testDivNegative" duration-ms="6" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivNegative -->
+        <test-method status="PASS" signature="testAddPositive()[pri:0, instance:testAddPositive(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testAddPositive" duration-ms="6" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddPositive -->
+        <test-method status="PASS" signature="testAddNegative()[pri:0, instance:testAddNegative(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testAddNegative" duration-ms="4" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNegative -->
+        <test-method status="PASS" signature="testMulZero()[pri:0, instance:testMulZero(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testMulZero" duration-ms="12" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMulZero -->
+        <test-method status="PASS" signature="testDivZero()[pri:0, instance:testDivZero(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testDivZero" duration-ms="10" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivZero -->
+        <test-method status="PASS" signature="testSubPositive()[pri:0, instance:testSubPositive(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testSubPositive" duration-ms="5" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubPositive -->
+        <test-method status="PASS" signature="testSubNegative()[pri:0, instance:testSubNegative(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testSubNegative" duration-ms="5" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubNegative -->
+        <test-method status="PASS" signature="testSubZero()[pri:0, instance:testSubZero(com.project.maven.scientificCalculator.BasicCalculatorTest)]" name="testSubZero" duration-ms="30" started-at="2017-12-14T15:40:19Z" finished-at="2017-12-14T15:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubZero -->
+      </class> <!-- com.project.maven.scientificCalculator.BasicCalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
